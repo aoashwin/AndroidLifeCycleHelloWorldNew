@@ -26,7 +26,7 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-```
+```java
 /*
 Program to print the text “Hello World”.
 Developed by: ASHWIN A O
@@ -35,7 +35,7 @@ Registeration Number : 212220230005
 ```
 
 ### MainActivity.java
-```
+```java
 package com.example.proj1;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ### activity_main.xml
-```
+```java
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
